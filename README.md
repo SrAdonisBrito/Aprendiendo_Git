@@ -5,3 +5,5 @@
 Para ejecutar el sistema, debes poner:
 
 ```npm install react```
+
+Actulizando GIT a traves del comando git pull en el terminal.
